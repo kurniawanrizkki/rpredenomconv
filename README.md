@@ -1,4 +1,3 @@
-````md
 # rpredenomconv
 
 rpredenomconv is an open-source Laravel package for handling Rupiah redenomination (1000:1).  
@@ -260,4 +259,3 @@ Please ensure that all changes include proper tests and documentation.
 MIT License
 Copyright © 2025
 Kurniawan Rizki
-/bin/bash: :1: command not found
